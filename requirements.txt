@@ -1,5 +1,5 @@
 beautifulsoup4
-numpy
-pandas
+google-genai
+python-dotenv
 requests
 translate
